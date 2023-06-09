@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/fruits/static/css/main.abccf8bd.css",
+    "main.js": "/fruits/static/js/main.38dcb3ab.js",
+    "static/media/banner.jpg": "/fruits/static/media/banner.7817b5bfbe19e863b92d.jpg",
+    "static/media/kiwi.jpg": "/fruits/static/media/kiwi.f95168c6bbbf09e5886f.jpg",
+    "static/media/strawberry.jpg": "/fruits/static/media/strawberry.480e5f5349ef2c1958e6.jpg",
+    "static/media/kinu.jpg": "/fruits/static/media/kinu.b0da635197ff09a4a383.jpg",
+    "static/media/banana.jpg": "/fruits/static/media/banana.9dfb88ace59e82ad6372.jpg",
+    "static/media/shop2.jpg": "/fruits/static/media/shop2.48d6717eb876b712dfd4.jpg",
+    "static/media/tarbooj.jpg": "/fruits/static/media/tarbooj.53d9ea74b1389d6d7cc1.jpg",
+    "static/media/shop3.jpg": "/fruits/static/media/shop3.686b354e6422b70392e3.jpg",
+    "static/media/mango.jpg": "/fruits/static/media/mango.bc10c5efa052225972f5.jpg",
+    "static/media/orange.jpg": "/fruits/static/media/orange.27536c12712eedf7b6da.jpg",
+    "static/media/black grapes.jpg": "/fruits/static/media/black grapes.f28ac8e5d452107d52f5.jpg",
+    "static/media/pineapple.jpg": "/fruits/static/media/pineapple.39a5486772d162bf6a59.jpg",
+    "static/media/apple.jpg": "/fruits/static/media/apple.42fb51391526dcb50f7c.jpg",
+    "static/media/annanas.jpg": "/fruits/static/media/annanas.e38d80de545651417b2f.jpg",
+    "static/media/grapes.jpg": "/fruits/static/media/grapes.5eb7b0b16320104c97af.jpg",
+    "static/media/shop1.jpg": "/fruits/static/media/shop1.0c9d2d916ba8b7a2c259.jpg",
+    "static/media/anar.jpg": "/fruits/static/media/anar.4c0809a9300d19a08fa8.jpg",
+    "static/media/red apple.jpg": "/fruits/static/media/red apple.4cf54a7c9f64172e5e6b.jpg",
+    "static/media/aadu.jpg": "/fruits/static/media/aadu.3e682816592423732eec.jpg",
+    "static/media/empty-cart.png": "/fruits/static/media/empty-cart.621445dd735630479079.png",
+    "index.html": "/fruits/index.html",
+    "main.abccf8bd.css.map": "/fruits/static/css/main.abccf8bd.css.map",
+    "main.38dcb3ab.js.map": "/fruits/static/js/main.38dcb3ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abccf8bd.css",
+    "static/js/main.38dcb3ab.js"
+  ]
+}
