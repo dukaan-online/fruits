@@ -13,7 +13,7 @@ const Home = () => {
                         Fresh Fruits Shop
                     </h1>
                     <p>
-                        Clean Fruits in Manjri
+                        * Free Delievery *
                     </p>
                     <p style={{ fontSize: "20px" }}>
                         * Currently serving only in Manjri , Pune *
